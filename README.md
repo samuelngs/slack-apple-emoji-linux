@@ -1,9 +1,11 @@
 # slack-apple-emoji-linux
 Bringing the awesome Apple Emoji 👻😈🤓 back to Slack on Linux
 
+![...>.<_ can't_resist...](./screenshot.png)
+
 ## Installation
 ```sh
-$ ./patch-slack.sh
+$ sudo ./patch-slack.sh
 ```
 
 ## Uninstallation
